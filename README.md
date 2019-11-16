@@ -5,7 +5,9 @@ Generates a Spotify playlist based on the given artist and provides similar song
 APIs:
 
 https://developer.spotify.com/documentation/web-api/
+
 https://tastedive.com/read/api
+
 https://wiki.musicbrainz.org/Main_Page
 
 ## User Stories
